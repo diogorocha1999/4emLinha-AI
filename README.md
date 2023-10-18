@@ -19,22 +19,13 @@ Here are the Pre-requisites for the API:
 
 _Below is an instruct on installing and setting up your app._
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/L0pesi/4emLinha-AI.git
-   ```
-2. Install Numpy
+1. Install Numpy
    ```sh
    pip install numpy
    ```
    
   ### RUN
-  1. RUN Python
+  2. RUN Python
    ```sh
    python 4emlinha.py
    ```
-   
-   
-   
-   
-   HAVE FUN!!!
